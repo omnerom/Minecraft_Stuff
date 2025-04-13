@@ -1,0 +1,1 @@
+# A collection of old projects dedicated to adding FishBot to Minecraft, however they were forgotten and never resumed progress.
